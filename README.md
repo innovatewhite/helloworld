@@ -1,7 +1,7 @@
-<button>
+BUTTON
 
-<link>
+LINK
 
-<text>
+TEXT
 
 This is my update to redo the README file. -DW
